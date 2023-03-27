@@ -31,7 +31,7 @@
         <dataprotection-config-api.version>1.0</dataprotection-config-api.version>
         <dataprotection-maven-plugin.version>1.0</dataprotection-maven-plugin.version>
 
-        <vaadin.version>8.14.3</vaadin.version>
+        <vaadin.version>24.0.2</vaadin.version>
         <lombok.version>1.18.26</lombok.version>
 
         <jaxb-runtime-version>3.0.0</jaxb-runtime-version>
